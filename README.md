@@ -129,12 +129,15 @@ DECODER:
 
 ENCODER:
 
-![Screenshot 2023-11-08 154340](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/03625bde-c143-4319-ae78-4fb8f8eb2944)
+
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/77d219e7-0898-4944-92a1-9ed6a73c5094)
+
 
 
 DECODER:
 
-![Screenshot 2023-11-08 154450](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/094719a1-eee3-4fbd-b3c1-e4e9836ef95e)
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/998f45ec-5b6e-468d-a40d-be6e0d7bfc32)
+
 
 
 
