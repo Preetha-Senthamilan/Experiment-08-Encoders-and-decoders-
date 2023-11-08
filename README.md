@@ -103,24 +103,41 @@ endmodule
 
 ### RTL LOGIC  
 
+ENCODER:
 
+![Screenshot 2023-11-08 154056](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/ec67e98e-1d57-4ec4-9d2e-e6f92b634f49)
 
+DECODER:
 
-
+![Screenshot 2023-11-08 154206](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/5ff9a9b7-abf5-44eb-83d3-c903dbe4487d)
 
 
 
 ### TIMING DIGRAMS  
 
+ENCODER:
 
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/c76321a2-1ef5-4cdf-b8a0-6ba3ea6e6778)
+
+DECODER:
+
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/3d23ad1c-b564-427a-86c2-52210da66106)
 
 
 
 ### TRUTH TABLE 
 
+ENCODER:
+
+![Screenshot 2023-11-08 154340](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/03625bde-c143-4319-ae78-4fb8f8eb2944)
 
 
+DECODER:
+
+![Screenshot 2023-11-08 154450](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/094719a1-eee3-4fbd-b3c1-e4e9836ef95e)
 
 
 
 ### RESULTS 
+
+Thus the program to design encoder and decoder is successfully completed.
