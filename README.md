@@ -105,11 +105,11 @@ endmodule
 
 ENCODER:
 
-![Screenshot 2023-11-08 154056](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/ec67e98e-1d57-4ec4-9d2e-e6f92b634f49)
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/e2baed8f-e016-400d-abb3-4d62919e3b55)
 
 DECODER:
 
-![Screenshot 2023-11-08 154206](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/5ff9a9b7-abf5-44eb-83d3-c903dbe4487d)
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/9675a16c-31ac-4efb-84bc-b09a9a94be30)
 
 
 
@@ -117,26 +117,25 @@ DECODER:
 
 ENCODER:
 
-![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/c76321a2-1ef5-4cdf-b8a0-6ba3ea6e6778)
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/08366a91-05ff-48ec-9767-5998f547cfee)
+
 
 DECODER:
 
-![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/3d23ad1c-b564-427a-86c2-52210da66106)
-
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/a0a7585a-24ec-4a0f-a59c-00468a1d5cf9)
 
 
 ### TRUTH TABLE 
 
 ENCODER:
 
-
-![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/77d219e7-0898-4944-92a1-9ed6a73c5094)
-
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/f7e50be1-3a8c-4a75-866c-f475619fc737)
 
 
 DECODER:
 
-![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/998f45ec-5b6e-468d-a40d-be6e0d7bfc32)
+![image](https://github.com/Preetha-Senthamilan/Experiment-08-Encoders-and-decoders-/assets/119390282/18c47d2e-f34e-4306-943f-bb451e0bfdf3)
+
 
 
 
